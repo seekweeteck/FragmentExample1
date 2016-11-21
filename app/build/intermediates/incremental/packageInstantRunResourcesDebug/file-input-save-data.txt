@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Mon Nov 21 17:54:44 SGT 2016
+2.base=D\:\\AndroidStudioProjects\\FragmentExample1\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\AndroidStudioProjects\\FragmentExample1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\fragment_sub.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\AndroidStudioProjects\\FragmentExample1\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=D\:\\AndroidStudioProjects\\FragmentExample1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+2.set=ANDROID_RESOURCE
+4.base=D\:\\AndroidStudioProjects\\FragmentExample1\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=D\:\\AndroidStudioProjects\\FragmentExample1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+7.set=ANDROID_RESOURCE
+count=10
+0.file=D\:\\AndroidStudioProjects\\FragmentExample1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\fragment_main.xml
+5.base=D\:\\AndroidStudioProjects\\FragmentExample1\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=D\:\\AndroidStudioProjects\\FragmentExample1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-land\\fragment_sub.xml
+4.set=ANDROID_RESOURCE
+6.base=D\:\\AndroidStudioProjects\\FragmentExample1\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\AndroidStudioProjects\\FragmentExample1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-land\\activity_main.xml
+9.set=ANDROID_RESOURCE
+9.file=D\:\\AndroidStudioProjects\\FragmentExample1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-land\\fragment_main.xml
+1.set=ANDROID_RESOURCE
+7.base=D\:\\AndroidStudioProjects\\FragmentExample1\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=D\:\\AndroidStudioProjects\\FragmentExample1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+6.set=ANDROID_RESOURCE
+0.base=D\:\\AndroidStudioProjects\\FragmentExample1\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=D\:\\AndroidStudioProjects\\FragmentExample1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\AndroidStudioProjects\\FragmentExample1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=D\:\\AndroidStudioProjects\\FragmentExample1\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=D\:\\AndroidStudioProjects\\FragmentExample1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\AndroidStudioProjects\\FragmentExample1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

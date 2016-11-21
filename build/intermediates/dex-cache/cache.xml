@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\FragmentExample1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="161d6b2b1af76037f3fd6ff74c176b49739788d9">
+        <dex dex="D:\AndroidStudioProjects\FragmentExample1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0c5c89b2f9ca90b62c21e9771d9cef78b8329bb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\FragmentExample1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ade72d458d41fd6a17348b9a6382be785cfb04c2">
+        <dex dex="D:\AndroidStudioProjects\FragmentExample1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4954c8faf6b5c1c4136dd93a6cb267e2c8ab816d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\AndroidStudioProjects\FragmentExample1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_be12b2bfe61ce84719ca8adbb64a57e21a77c233\classes.dex" />
+    </item>
+
+</items>
